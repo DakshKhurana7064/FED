@@ -1,5 +1,5 @@
 :root {
-    --player-theme-color: #000000; /* Default player color */
+    --player-theme-color: #121212; /* Default player color */
   }
   
   body {
@@ -13,7 +13,7 @@
   }
   
   .mood-energetic {
-    --player-theme-color: #FF4500; /* Orange for energetic mood */
+    --player-theme-color: #03DAC6; /* Orange for energetic mood */
   }
   
   .mood-happy {

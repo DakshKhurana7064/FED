@@ -54,10 +54,10 @@ const App = () => {
 
   const moodColors = {
     calm: '#89CFF0',
-    energetic: '#FF4500',
+    energetic: '#03DAC6',
     happy: '#FFD700',
     sad: '#A9A9A9',
-    default: '#ffffff'
+    default: '#121212'
   };
 
   return (
